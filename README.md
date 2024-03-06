@@ -1,2 +1,2 @@
-# JdR-Playground-Back
-Partie back-end du projet d'environnement pour jouer à des JdR avec des amis en ligne.
+# Projet de site web pour faire du JdR
+C'est ma tentative de créer un espace de jeu de rôle en ligne pour permettre à des joueurs et des mj de se créer une table de jeu virtuel
