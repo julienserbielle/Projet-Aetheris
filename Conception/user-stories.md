@@ -8,6 +8,9 @@
 |membre|accéder à ma page de profil|pour en modifier le contenu|
 |membre|accéder à une page de création de partie de JdR|pour commencer une aventure avec des ami·es|
 |membre (MJ)|créer une table de JdR (Jeu de Rôle)|mettre en place le JdR|
+|membre (MJ)|choisir un JdR en particulier|avoir accès à une fiche de personnage pour ce JdR là|
+|membre (MJ)|avoir la possibilité de customiser la fiche perso d'un JdR en particulier|adapter une fiche perso aux spécificités de mon JdR|
+|membre (MJ)|créer de toute pièce une fiche perso|pour mettre en place un JdR maison|
 |membre (MJ)|avoir un statut de MJ|avoir des droits supplémentaire sur ma table de JdR|
 |membre (MJ)|inviter des ami·es à ma table|pouvoir jouer avec eux|
 |membre (MJ)|voir les fiches perso des joueur·euses|les aider tout au long de la partie|
